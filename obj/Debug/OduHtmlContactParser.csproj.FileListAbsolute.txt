@@ -1,0 +1,16 @@
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\OduHtmlContactParser.exe.config
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\obj\Debug\OduHtmlContactParser.csprojResolveAssemblyReference.cache
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\OduHtmlContactParser.exe
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\OduHtmlContactParser.pdb
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\obj\Debug\OduHtmlContactParser.exe
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\obj\Debug\OduHtmlContactParser.pdb
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\Fizzler.dll
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\Fizzler.xml
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\pescherskiy_an\documents\visual studio 2015\Projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Desktop\Finshed gallery\git projects\OduHtmlContactParser\OduHtmlContactParser\bin\Debug\OduHtmlContactParser.exe.config
+C:\Users\User\Desktop\Finshed gallery\git projects\OduHtmlContactParser\OduHtmlContactParser\obj\Debug\OduHtmlContactParser.exe
+C:\Users\User\Desktop\Finshed gallery\git projects\OduHtmlContactParser\OduHtmlContactParser\obj\Debug\OduHtmlContactParser.pdb
