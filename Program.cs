@@ -13,10 +13,8 @@ namespace OduHtmlContactParser
         static void Main(string[] args)
         {
 
-
-
             var html = new HtmlDocument();
-            html.LoadHtml(new WebClient().DownloadString("http://www.address.net/my.htm"));
+            html.LoadHtml(new WebClient().DownloadString("http://www.address.net/my.html"));
             var root = html.DocumentNode;
             var commonPosts = root.Descendants().Where(n => n.GetAttributeValue("id", "").Equals("table5"));
             string buffer = "";
@@ -34,24 +32,18 @@ namespace OduHtmlContactParser
               
             }
             XmlDocument xm = new XmlDocument();
-        
 
-          string path=  Directory.GetCurrentDirectory()+"employee.txt";
+            string path=  Directory.GetCurrentDirectory()+"employee.txt";
             File.WriteAllText(@"" + path, buffer);
-
-
-
 
             Console.ReadKey();
         }
         public static string strconcat(string[] sarr)
-        { string buffstr = "";
+        {
+            string buffstr = "";
             foreach(var s in sarr)
             {
-
                 buffstr += s;
-
-
             }
             return buffstr;
         }
